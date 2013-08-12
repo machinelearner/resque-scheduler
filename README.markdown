@@ -1,15 +1,8 @@
 resque-scheduler
 ================
 
-### Help Wanted
-
-I no longer have time to give resque-scheduler the attention it deserves #sadface.  If anyone is
-interested in either co-maintaining or taking over the repo entirely, please 
-message me.
-
-Cheers,
-
-bvandenbos
+Fork of resque-scheduler.
+Fixing issues as we encounter while using latest Resque version.
 
 ### Description
 
