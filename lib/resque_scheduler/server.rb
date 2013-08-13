@@ -16,7 +16,7 @@ module ResqueScheduler
           end
 
           def queue_from_class_name(class_name)
-            Resque.queue_from_class(Resque.constantize(class_name))
+            Resque.queue_from_class(class_name.constantize)
           end
         end
 
